@@ -9,7 +9,16 @@ SQLAlchemy — ORM
 Vercel — frontend deploy
 Railway — backend + database host
 
+## project structure
+project/
+├── src/
+│   ├── main.py
+│   └── utils/
+├── data/
+└── tests/
+
 ## harness
+### tmux panes
 
 ## ci/cd
 
