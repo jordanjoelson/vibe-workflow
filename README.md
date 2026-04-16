@@ -23,5 +23,9 @@ project/
 ## ci/cd
 
 ## cmds
+git status
+git log
+git bisect
+git worktree add ../repo-feature feature-branch
 
 # lean set-up
