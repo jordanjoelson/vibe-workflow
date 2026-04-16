@@ -27,5 +27,5 @@ git status
 git log
 git bisect
 git worktree add ../repo-feature feature-branch
-
+git worktree list
 # lean set-up
